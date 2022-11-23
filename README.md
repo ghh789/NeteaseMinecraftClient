@@ -6,7 +6,7 @@ Beautiful sky
 Beautiful textures  
 Beautiful loading interface  
 Beautiful sound effect  
-One click to hidechat,bossbar,hud……  
+One click hide chat,bossbar,hud……  
 Armor display  
 Anti havk animation  
 Bow animation  
