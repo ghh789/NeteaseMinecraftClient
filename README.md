@@ -12,7 +12,7 @@ Anti havk animation
 Bow animation  
 Hitbox  
 
-#Only about 300mb+!
+# Only about 300mb+!
 Installation package only about 180mb  
 After Install about 300mb  
 
