@@ -8,7 +8,7 @@ Beautiful loading interface
 Beautiful sound effect  
 One click hide chat,bossbar,hud……  
 Armor display  
-Anti havk animation  
+Anti hack animation  
 Bow animation  
 Hitbox  
 
