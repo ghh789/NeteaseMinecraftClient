@@ -1,2 +1,20 @@
 # NeteaseMinecraftClient
-PvP client for Minecraft（1.18）pocket on iPhone/iPad，but ipa
+PvP client for Minecraft Netease（1.18）pocket on iPhone/iPad.(Not a hacked client!)
+#Abilities
+Beautiful sky
+Beautiful textures
+Beautiful loading interface
+Beautiful sound effect
+One click to hide chat,bossbar,hud……
+Armor display
+Anti havk animation
+Bow animation
+Hitbox
+#Only about 300mb+!
+Installation package only about 180mb
+After Install about 300mb
+#How Install?
+If you want to install apps on iPhone/iPad.They always need a certificate to sign.If this app hasn't been signed.This app can't be open or use.
+1.Use apple certificate to sign.(Go to find on websie to know how dose it work)
+2.Download a trollstore and Install it(find it on Github/opa334).Then go into trollstore-Settings-Install Idid.Wait it finished.And choose you ipa use trollstore to open.And install it~
+Remember:trollstore now only can run on ios14.0-14.8.1/15.0.0-15.4.1/15.5b1-4/15.6b1-5
