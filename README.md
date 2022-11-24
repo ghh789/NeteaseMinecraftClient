@@ -1,5 +1,5 @@
 # NeteaseMinecraftClient
-PvP client for Minecraft Netease（1.18）pocket on iPhone/iPad.(Not a hacked client!)
+PvP client for Minecraft Netease（1.18）pe on iPhone/iPad.(Not a hacked client!)
 
 # Abilities
 Beautiful sky  
