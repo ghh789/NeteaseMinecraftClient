@@ -12,10 +12,6 @@ Sword blocking animation
 Bow animation  
 Hitbox  
 
-# Only about 300mb+!
-Installation package only about 180mb  
-After Install about 300mb  
-
 # How Install?
 If you want to install apps on iPhone/iPad.They always need a certificate to sign.If this app hasn't been signed.This app can't be open or use.  
 
