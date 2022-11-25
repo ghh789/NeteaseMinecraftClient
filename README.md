@@ -20,3 +20,8 @@ If you want to install apps on iPhone/iPad.They always need a certificate to sig
 2.Download a trollstore and Install it(find it on Github/opa334).Then go into trollstore-Settings-Install Idid.Wait it finished.And choose your ipa use trollstore to open.And install it~  
 
 Remember:trollstore now only can run on ios14.0-14.8.1/15.0.0-15.4.1/15.5b1-4/15.6b1-5
+
+# 中国的友人看向这里！
+支持作者的话，可以请作者喝杯奶茶哦！vx：yy77295199/Q：3370089038  
+Advice:mcmcsbsb@163.com  
+建议投稿：mcmcsbsb@163.com  
